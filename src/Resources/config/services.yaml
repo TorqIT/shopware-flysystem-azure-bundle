@@ -1,0 +1,5 @@
+services:
+  TorqIT\FlysystemAzureBundle\AzureFlysystemAdapterFactory:
+    resource: 'TorqIT\FlysystemAzureBundle\AzureFlysystemAdapterFactory'
+    tags: [ 'shopware.filesystem.factory' ]
+    lazy: true
