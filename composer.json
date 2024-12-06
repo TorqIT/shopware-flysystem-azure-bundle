@@ -1,5 +1,5 @@
 {
-    "name": "torqit/flysystem-flysystem-azure-bundle",
+    "name": "torqit/shopware-flysystem-azure-bundle",
     "type": "bundle",
     "require": {
         "league/flysystem": "^3.9",
